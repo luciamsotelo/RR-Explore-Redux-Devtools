@@ -1,3 +1,4 @@
+// folder features-file counterSlice.js
 import { createSlice } from '@reduxjs/toolkit'
 
 const initialState = {
